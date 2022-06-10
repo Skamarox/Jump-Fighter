@@ -1,0 +1,22 @@
+{
+    "name": "EnemyEngine",
+    "rootNamespace": "",
+    "references": [
+        "GUID:6359eb50caedb214298ac7ac05a6eb00",
+        "GUID:656c2c43d3cfe4855bd40e058874b0be",
+        "GUID:0b4ac8a30ceff714e9619277fa5abc5a",
+        "GUID:dd75dddd0218bf04586a0fe9f08e34d2",
+        "GUID:416e0df7beaf78449ac8eb1f7c8da53b",
+        "GUID:2cb6a1d6c208eea4cb79df78324ff8e3",
+        "GUID:82df47072484b4c419b8d2a4feb3d8b1"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

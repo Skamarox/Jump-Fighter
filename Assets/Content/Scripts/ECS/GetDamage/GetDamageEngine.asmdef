@@ -1,0 +1,19 @@
+{
+    "name": "GetDamageEngine",
+    "rootNamespace": "",
+    "references": [
+        "GUID:656c2c43d3cfe4855bd40e058874b0be",
+        "GUID:7ffa2b5a30383074aa4eacef1651d410",
+        "GUID:2cb6a1d6c208eea4cb79df78324ff8e3",
+        "GUID:416e0df7beaf78449ac8eb1f7c8da53b"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

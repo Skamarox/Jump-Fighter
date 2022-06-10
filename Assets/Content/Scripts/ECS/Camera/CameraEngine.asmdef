@@ -1,0 +1,17 @@
+{
+    "name": "CameraEngine",
+    "rootNamespace": "",
+    "references": [
+        "GUID:656c2c43d3cfe4855bd40e058874b0be",
+        "GUID:2cb6a1d6c208eea4cb79df78324ff8e3"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
